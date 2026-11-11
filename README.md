@@ -13,7 +13,7 @@ I'm a Computer Science graduate passionate about Java development, backend techn
 
 ### 🛠️ Technical Skills
 
-- **Programming:** Java, Python
+- **Programming:** Java
 - **Backend:** JDBC, Spring, Spring Boot
 - **Database:** MySQL, Oracle DB
 - **Web:** HTML, CSS, JavaScript
