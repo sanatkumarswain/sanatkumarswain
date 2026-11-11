@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**sanatkumarswain/sanatkumarswain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sanat Kumar Swain 👋
 
-Here are some ideas to get you started:
+### Aspiring Java Backend Developer | B.Tech CSE Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science graduate passionate about Java development, backend technologies, and building practical software applications.
+
+- 🎓 B.Tech in Computer Science & Engineering (2025)
+- 💻 Interested in Java Backend Development
+- 🌱 Currently learning Spring Boot, REST APIs and Hibernate
+- 🔭 Building practical projects using Java and MySQL
+- 🎯 Seeking an entry-level Java Developer opportunity
+
+### 🛠️ Technical Skills
+
+- **Programming:** Java, Python
+- **Backend:** JDBC, Spring, Spring Boot
+- **Database:** MySQL, Oracle DB
+- **Web:** HTML, CSS, JavaScript
+- **Tools:** IntelliJ IDEA, VS Code, Git, GitHub
+
+### 🚀 My Projects
+
+| Project | Technologies |
+|---|---|
+| Bank Management System | Java Swing, MySQL |
+| Employee Management System | Java Swing, MySQL |
+| Hospital Management System | Java Swing, MySQL |
+
+### 📚 Currently Learning
+
+- Advanced Java
+- Spring Boot
+- RESTful Web Services
+- Hibernate and JPA
+
+### 🤝 Connect With Me
+
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sanat-kumar-swain-b27aa9293/)
+- **Email:** sipunswainbdk@gmail.com
+
+---
+⭐ Thanks for visiting my profile!
+
